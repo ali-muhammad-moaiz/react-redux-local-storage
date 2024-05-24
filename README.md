@@ -8,7 +8,7 @@ The project is designed to help you understand and implement advanced concepts i
 
 ## Features
 
-- **Add, and mark tasks as done:** Creat, read, delete operations for managing tasks.
+- **Add, and mark tasks as done:** Create, read, delete operations for managing tasks.
 - **Local Storage:** Persist the tasks across browser sessions.
 - **Redux Toolkit:** Efficient state management for the application.
 
@@ -23,8 +23,7 @@ The project is designed to help you understand and implement advanced concepts i
 
 1. **Clone the repository:**
     ```bash
-    git clone [Your GitHub Repository Link]
-    cd [repository-name]
+    git clone "https://github.com/alimuhammadmz/react-redux-local-storage/"
     ```
 
 2. **Install dependencies:**
@@ -36,18 +35,17 @@ The project is designed to help you understand and implement advanced concepts i
 
 3. **Start the development server:**
     ```bash
-    npm start
-    # or
-    yarn start
+    npm run dev
     ```
 
-The application should now be running on `http://localhost:3000`.
+The application should now be running!
 
 ## Usage
 
 - **Add a Task:** Use the input field to add a new task.
 - **Delete a Task:** Click the delete button next to a task to remove it.
-- **Persist Tasks:** Your tasks will be saved in local storage and reloaded when you reopen the app.
+- 
+- **Persist Tasks:** Your tasks will be saved (by-default) in local storage and reloaded when you reopen the app.
 
 ## Learning Objectives
 
@@ -55,7 +53,7 @@ The application should now be running on `http://localhost:3000`.
 - **State Management:** Understand and implement Redux Toolkit for managing application state.
 - **Local Storage:** Persist data in the browser for a better user experience.
 
-## Contributing
+## Contribution
 
 If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
