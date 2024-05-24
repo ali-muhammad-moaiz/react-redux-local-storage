@@ -29,8 +29,6 @@ The project is designed to help you understand and implement advanced concepts i
 2. **Install dependencies:**
     ```bash
     npm install
-    # or
-    yarn install
     ```
 
 3. **Start the development server:**
@@ -44,7 +42,6 @@ The application should now be running!
 
 - **Add a Task:** Use the input field to add a new task.
 - **Delete a Task:** Click the delete button next to a task to remove it.
-- 
 - **Persist Tasks:** Your tasks will be saved (by-default) in local storage and reloaded when you reopen the app.
 
 ## Learning Objectives
